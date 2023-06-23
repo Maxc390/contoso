@@ -1,2 +1,1 @@
-# contoso
-#Translator APP using Azure Cloud service
+# contoso:Translator APP using Azure Cloud service
